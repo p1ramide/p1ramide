@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **PyBoard, a Whiteboard app made with CustomTkinter (py lib)**
+- 🔭 I’m currently working on **a custom namespace in C++ to emulate python syntax in a C-like context**
 
 - 🌱 I’m currently learning **C# (WinForms)**
 
