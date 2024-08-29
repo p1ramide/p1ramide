@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **MyMeteo - A C# app built with the API OpenWeatherAPI**
+- 🔭 I’m currently working on **C++ BlackJack Console Game**
 
 - 🌱 I’m currently learning **C# (WPF)**
 
