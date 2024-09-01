@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm p1ramide</h1>
 <h3 align="center">an italian junior dev who creates simple projects to pass the time and sharpen his knowledge</h3>
 
 - 🔭 I’m currently working on **C++ BlackJack Console Game**
