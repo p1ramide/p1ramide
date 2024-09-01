@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm p1ramide</h1>
 <h3 align="center">an italian junior dev who creates simple projects to pass the time and sharpen his knowledge</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 - 🔭 I’m currently working on **C++ BlackJack Console Game**
 
 - 🌱 I’m currently learning **C# (WPF)**
