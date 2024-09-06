@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C# (WPF)**
 
-- 💬 Ask me about **python, linux, bash**
+- 💬 Ask me about **python, linux, bash, cpp**
 
 - 👨‍💻 All of my best projects are available at [https://github.com/p1ramide/](https://github.com/p1ramide/)
 
