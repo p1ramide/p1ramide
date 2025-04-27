@@ -1,6 +1,6 @@
 <h3 align="center">an italian junior dev who creates simple projects to pass the time and sharpen his knowledge</h3>
 
-- 🔭 I’m currently working on secret java project
+- 🔭 I’m currently working on **java secret project**
 
 - 🌱 I’m currently learning **Java**
 
