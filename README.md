@@ -1,4 +1,4 @@
-<h3 align="center">an italian junior dev who creates simple projects to pass the time and sharpen his knowledge</h3>
+<h3 align="center">an italian dev, these are some of my best projects: </h3>
 
 - 🔭 I’m currently working on **java secret project**
 
