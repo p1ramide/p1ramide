@@ -1,6 +1,6 @@
 <h3>an italian dev, these are some of my best projects: </h3>
 
-- [BlackJack (C++)] 
+- [BlackJack (C++)](https://github.com/p1ramide/BlackJack) 
 
 - 🌱 I’m currently learning **Java**
 
