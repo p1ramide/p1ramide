@@ -1,6 +1,6 @@
-<h3 align="center">an italian dev, these are some of my best projects: </h3>
+<h3>an italian dev, these are some of my best projects: </h3>
 
-- 🔭 I’m currently working on **java secret project**
+- [BlackJack (C++)] 
 
 - 🌱 I’m currently learning **Java**
 
